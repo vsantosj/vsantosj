@@ -4,7 +4,7 @@
 
 ## I'm currently learning
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,linux,postgresql,mysql,aws,docker,kubernetes&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,python,c,linux,postgresql,mysql,aws,docker,kubernetes&perline=5&theme=dark" />
 
 
 ### GitHub Stats 
