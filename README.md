@@ -1,16 +1,23 @@
-## Hi there 👋
 
-### ✨ Hi there, I'm Viviane! ✨
+## Hi friend 👋
+---
 
-## I'm currently learning
+<p> I'm <b>Viviane</b>. Systems Analysis and Development student <a href="https://www.uninter.com/" target="_blank">UNINTER </a> 
+    and Software engineering student at <a href="https://www.42sp.org.br/" target="_blank">42| São Paulo</a>.
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,c,linux,postgresql,mysql,aws,docker,kubernetes&perline=5&theme=dark" />
+<p> I'm currently transitioning from a background in IT support and technical assistance to back-end systems development. My focus is on learning technologies such as C, TypeScript, NestJS, Linux, Shell Script, and MySQL</p>
 
+---
+## 42 progress 📈:  
 
-### GitHub Stats 
+#### FASE 1:
+<a href="https://github.com/vsantosj/Projeto_Libft" target="_blank">
+<img src="./src/badge-42/inprogress/libftm_progress.png" height="90" width="90">
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsantosj&theme=dracula&bg_color=000&border_color=e5318f&show_icons=true&icon_color=e5318f&hide_title=true&text_color=FFF&hide=stars)
+---
+### Certificações
 
-
-### Most used languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vsantosj&layout=compact&bg_color=000&border_color=e5318f&hide_title=true&text_color=FFF)
+<img src="./src/aws-certified-cloud-practitioner.png">
+</a>
