@@ -21,3 +21,14 @@
 
 <img src="./src/aws-certified-cloud-practitioner.png">
 </a>
+
+---
+### Activity: 
+
+<!--START_SECTION:waka-->
+
+```txt
+
+```
+
+<!--END_SECTION:waka-->
