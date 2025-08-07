@@ -2,8 +2,8 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # Todo dia 1 de cada mês à meia-noite 
-  workflow_dispatch:      # Permite rodar manualmente
+    - cron: '0 0 1 * *'         # Todo dia 1 do mês à meia-noite
+  workflow_dispatch:            # Permite rodar manualmente
 
 jobs:
   update-readme:
