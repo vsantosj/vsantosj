@@ -2,7 +2,9 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 1 * *'         # Todo dia 1 do mês à meia-noite
+   - cron: '0 * * * *'         # Toda hora
+  #  - cron: '0 0 1 * *'         # Todo dia 1 do mês à meia-noite
+    
   workflow_dispatch:            # Permite rodar manualmente
 
 jobs:
