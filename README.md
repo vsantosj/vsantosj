@@ -18,7 +18,7 @@
 
 ---
 ### Certificações
-
+<a href="https://www.credly.com/badges/49799b41-9f1c-461c-b391-bb00f8d2e26c/linked_in_profile" target= "_blank" >
 <img src="./src/aws-certified-cloud-practitioner.png">
 </a>
 
