@@ -11,19 +11,27 @@
 ---
 ## 42 progress 📈:  
 
-#### FASE 1:
+#### Level 1:
 <a href="https://github.com/vsantosj/Projeto_Libft" target="_blank">
 <img src="./src/badge-42/inprogress/libftm_progress.png" height="90" width="90">
 </a>
 
 ---
-### Certificações
-<a href="https://www.credly.com/badges/49799b41-9f1c-461c-b391-bb00f8d2e26c/linked_in_profile" target= "_blank" >
-<img src="./src/aws-certified-cloud-practitioner.png">
-</a>
+## Certifications:
+<div class="cert-container">
+  <a href="https://www.credly.com/badges/49799b41-9f1c-461c-b391-bb00f8d2e26c/linked_in_profile" target="_blank">
+    <img src="./src/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <p class="cert-caption">
+    <a href="https://www.credly.com/badges/..." target="_blank">
+      AWS Certified Cloud Practitioner
+    </a>
+  </p>
+</div>
+
 
 ---
-### Activity: 
+## Last Activity: 
 
 <!--START_SECTION:waka-->
 
