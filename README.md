@@ -13,7 +13,7 @@
 
 #### Level 1:
 <a href="https://github.com/vsantosj/Projeto_Libft" target="_blank">
-<img src="./src/badge-42/inprogress/libftm_progress.png" height="90" width="90">
+<img src="./src/badge-42/completed/libftm.png" height="90" width="90">
 </a>
 <a href="" target="_blank">
 <img src="./src/badge-42/inprogress/born2beroote.png" height="90" width="90">
