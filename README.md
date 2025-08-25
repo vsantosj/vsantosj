@@ -15,6 +15,15 @@
 <a href="https://github.com/vsantosj/Projeto_Libft" target="_blank">
 <img src="./src/badge-42/inprogress/libftm_progress.png" height="90" width="90">
 </a>
+<a href="" target="_blank">
+<img src="./src/badge-42/inprogress/born2beroote.png" height="90" width="90">
+</a>
+<a href="" target="_blank">
+<img src="./src/badge-42/inprogress/ft_printfe.png" height="90" width="90">
+</a>
+<a href="" target="_blank">
+<img src="./src/badge-42/inprogress/get_next_linem.png" height="90" width="90">
+</a>
 
 ---
 ## Certifications:
@@ -36,11 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C            11 hrs 41 mins  ████████████████████▓░░░░   83.19 %
-HTML         1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-Makefile     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+
 ```
 
 <!--END_SECTION:waka-->
