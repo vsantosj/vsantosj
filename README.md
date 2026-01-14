@@ -1,48 +1,47 @@
+# Olá, eu sou a Viviane Santos 👋
 
-## Hi friend 👋
----
+Moro em Jundiaí/SP e estou em transição da **área técnica (manutenção e assistência de computadores)** para o **desenvolvimento de sistemas**, focando em construir soluções sólidas, escaláveis e eficientes.
 
-<p> I'm <b>Viviane</b>. Systems Analysis and Development student <a href="https://www.uninter.com/" target="_blank">UNINTER </a> 
-    and Software engineering student at <a href="https://www.42sp.org.br/" target="_blank">42| São Paulo</a>.
-</p>
-
-<p> I'm currently transitioning from a background in IT support and technical assistance to back-end systems development. My focus is on learning technologies such as C, TypeScript, NestJS, Linux, Shell Script, and MySQL</p>
+- 🎓 **Formação:** Graduada em ADS e cursando Ciência da Computação na [UNINTER](https://www.uninter.com/)
+- 🚀 **Atuação:** Desenvolvedora Voluntária na **Lacrei Saúde**, contribuindo para o ecossistema de tecnologia para impacto social.
+- 🛠️ **Foco Atual:** Especialização em Back-end (Java/Spring e Python/Django) e aprofundamento em arquitetura de sistemas.
 
 ---
-## 42 progress 📈:  
 
-#### Level 1:
-<a href="https://github.com/vsantosj/Projeto_Libft" target="_blank">
-<img src="./src/badge-42/completed/libfte.png" height="90" width="90">
-</a>
-<a href="" target="_blank">
-<img src="./src/badge-42/inprogress/born2beroote.png" height="90" width="90">
-</a>
-<a href="" target="_blank">
-<img src="./src/badge-42/inprogress/ft_printfe.png" height="90" width="90">
-</a>
-<a href="" target="_blank">
-<img src="./src/badge-42/inprogress/get_next_linem.png" height="90" width="90">
-</a>
+### 💻 Stack Tecnológica
 
----
-## Certifications:
-<div class="cert-container">
-  <a href="https://www.credly.com/badges/49799b41-9f1c-461c-b391-bb00f8d2e26c/linked_in_profile" target="_blank">
-    <img src="./src/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner">
-  </a>
-  <p class="cert-caption">
-    <a href="https://www.credly.com/badges/..." target="_blank">
-      AWS Certified Cloud Practitioner
-    </a>
-  </p>
+**Back-end & Frameworks**
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
+**Infraestrutura & Ferramentas**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
-## Last Activity: 
 
-<!--START_SECTION:waka-->
+### 📜 Certificações
+
+<div align="left">
+  <a href="https://www.credly.com/badges/49799b41-9f1c-461c-b391-bb00f8d2e26c/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner">
+  </a>
+</div>
+
+---
+
+### 📊 Estatísticas de Código
+
+<!--START_SECTION-->
 
 ```txt
 Python       6 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   44.99 %
@@ -52,4 +51,7 @@ Markdown     57 mins         █▓░░░░░░░░░░░░░░░
 YAML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
-<!--END_SECTION:waka-->
+
+
+
+
