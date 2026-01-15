@@ -1,18 +1,18 @@
-# Olá, eu sou a Viviane Santos 👋
 
-Moro em Jundiaí/SP e estou em transição da **área técnica (manutenção e assistência de computadores)** para o **desenvolvimento de sistemas**, focando em construir soluções sólidas, escaláveis e eficientes.
 
-- 🎓 **Formação:** Graduada em ADS e cursando Ciência da Computação na [UNINTER](https://www.uninter.com/)
+# Olá, Sou Viviane. <img src="./src/badge/retrocomputer0.1.gif" align="right" width="180" vspace="10">
 
-- 🚀 **Atuação:** Desenvolvedora Back-End Voluntária na [Lacrei Saúde](https://lacreisaude.com.br/), contribuindo para o ecossistema de tecnologia para impacto social.
 
-- 🛠️ **Foco Atual:** Especialização em Back-end (Java/Spring, Python/Django, Banco de dados e cloud) e aprofundamento em arquitetura de sistemas.
+
+
+
+Sou uma desenvolvedora Back-End em <b>transição de carreira</b>, vindo da área de informática para o desenvolvimento de software. 
+
+
 
 ---
 
-### 💻 Stack Tecnológica
-
-**Back-end & Frameworks**
+### 💻 Stack
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -22,10 +22,6 @@ Moro em Jundiaí/SP e estou em transição da **área técnica (manutenção e a
   <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-FFFFFF?style=for-the-badge&logo=scrumalliance&logoColor=black" />
-</div>
-
-**Infraestrutura & Ferramentas**
-<div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -33,33 +29,18 @@ Moro em Jundiaí/SP e estou em transição da **área técnica (manutenção e a
   
 </div>
 
----
 
-### 📜 Certificações
 
-<div align="left">
-  <a href="https://www.credly.com/badges/49799b41-9f1c-461c-b391-bb00f8d2e26c/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner">
-  </a>
-</div>
-
----
-
-### 📊 Estatísticas de Código
+### Codando ontem...
 
 <!--START_SECTION:waka-->
 
 ```txt
-Python           5 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   39.14 %
-Bash             2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-Java             2 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-TypeScript       1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Markdown         1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Java             43 mins         ███████████████▓░░░░░░░░░   62.63 %
+YAML             10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+XML              8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+GitIgnore file   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+SQL              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
-
-
-
-
-
