@@ -16,6 +16,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_PROJECTS: "false"
+          SHOW_PROJECTS: "true"
           LANGUAGES: "Java, Python, ZSH, Bash, Docker, SQL"
 
