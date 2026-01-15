@@ -3,8 +3,8 @@
 Moro em Jundiaí/SP e estou em transição da **área técnica (manutenção e assistência de computadores)** para o **desenvolvimento de sistemas**, focando em construir soluções sólidas, escaláveis e eficientes.
 
 - 🎓 **Formação:** Graduada em ADS e cursando Ciência da Computação na [UNINTER](https://www.uninter.com/)
-- 🚀 **Atuação:** Desenvolvedora Voluntária na **Lacrei Saúde**, contribuindo para o ecossistema de tecnologia para impacto social.
-- 🛠️ **Foco Atual:** Especialização em Back-end (Java/Spring e Python/Django) e aprofundamento em arquitetura de sistemas.
+- 🚀 **Atuação:** Desenvolvedora Back-End Voluntária na [Lacrei Saúde](https://lacreisaude.com.br/), contribuindo para o ecossistema de tecnologia para impacto social.
+- 🛠️ **Foco Atual:** Especialização em Back-end (Java/Spring, Python/Django, Banco de dados e cloud) e aprofundamento em arquitetura de sistemas.
 
 ---
 
@@ -12,6 +12,7 @@ Moro em Jundiaí/SP e estou em transição da **área técnica (manutenção e a
 
 **Back-end & Frameworks**
 <div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
