@@ -12,7 +12,7 @@ Sou uma desenvolvedora Back-End em <b>transição de carreira</b>, vindo da áre
 
 ---
 
-### 💻 Stack
+### Tecnologias & Ferramentas
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -31,7 +31,7 @@ Sou uma desenvolvedora Back-End em <b>transição de carreira</b>, vindo da áre
 
 
 
-### Codando ontem...
+### Minha jornada de código na última semana
 
 <!--START_SECTION:waka-->
 
