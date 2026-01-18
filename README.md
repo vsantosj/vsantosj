@@ -36,11 +36,11 @@ Sou uma desenvolvedora Back-End em <b>transição de carreira</b>, vindo da áre
 <!--START_SECTION:waka-->
 
 ```txt
-Java             7 hrs 57 mins   █████████████░░░░░░░░░░░░   51.90 %
-Python           4 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.62 %
-Markdown         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Bash             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-sh               25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Java             8 hrs 9 mins    █████████████░░░░░░░░░░░░   52.48 %
+Python           4 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.27 %
+Markdown         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Bash             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+sh               25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
