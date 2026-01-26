@@ -8,26 +8,9 @@
 
 Sou uma desenvolvedora Back-End em <b>transição de carreira</b>, vindo da área de informática para o desenvolvimento de software. 
 
-
+Formada em **Análise e Desenvolvimento de sistemas** e atualmente curso **Ciência da Computação** na [UNINTER](https://www.uninter.com). No momento, contribuo como desenvolvedora Back-end voluntária na [Lacrei saude](https://lacreisaude.com.br/), onde aplico meus conhecimentos em python e metodologias ágeis para gerar impacto social através da tecnologia.
 
 ---
-
-### Tecnologias & Ferramentas
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-FFFFFF?style=for-the-badge&logo=scrumalliance&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-  
-</div>
 
 
 
