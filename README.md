@@ -36,11 +36,11 @@ Sou uma desenvolvedora Back-End em <b>transição de carreira</b>, vindo da áre
 <!--START_SECTION:waka-->
 
 ```txt
-sh           8 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.48 %
-TypeScript   7 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   35.01 %
-Python       5 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Bash         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+sh           7 hrs 22 mins   ██████████▓░░░░░░░░░░░░░░   42.53 %
+Python       5 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+TypeScript   3 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
+Bash         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
