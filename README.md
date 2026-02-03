@@ -19,11 +19,11 @@ Formada em **Análise e Desenvolvimento de sistemas** e atualmente curso **Ciên
 <!--START_SECTION:waka-->
 
 ```txt
-sh         8 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.31 %
-Python     8 hrs 19 mins   ███████████░░░░░░░░░░░░░░   43.36 %
-Bash       1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-YAML       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Docker     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python     9 hrs 22 mins   ██████████▓░░░░░░░░░░░░░░   43.26 %
+sh         9 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   43.15 %
+Bash       1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+YAML       1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Docker     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
