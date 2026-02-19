@@ -19,11 +19,11 @@ Formada em **Análise e Desenvolvimento de sistemas** e atualmente curso **Ciên
 <!--START_SECTION:waka-->
 
 ```txt
-sh                4 hrs 53 mins         ███████████████▓░░░░░░░░░   62.73 %
-Java              1 hr 28 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-Python            1 hr 9 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-Java Properties   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Properties        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+sh                2 hrs 11 mins         ██████████████░░░░░░░░░░░   56.12 %
+Java              1 hr 28 mins          █████████▒░░░░░░░░░░░░░░░   37.60 %
+Java Properties   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Properties        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+GitIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
