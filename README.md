@@ -19,9 +19,8 @@ Formada em **Análise e Desenvolvimento de sistemas** e atualmente curso **Ciên
 <!--START_SECTION:waka-->
 
 ```txt
-Java   33 mins               ████████████████████▒░░░░   81.10 %
-sh     5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-XML    2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+sh     1 hr 23 mins          ███████████████████░░░░░░   76.47 %
+Java   25 mins               ██████░░░░░░░░░░░░░░░░░░░   23.53 %
 ```
 
 <!--END_SECTION:waka-->
