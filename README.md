@@ -19,9 +19,9 @@ Formada em **Análise e Desenvolvimento de sistemas** e atualmente curso **Ciên
 <!--START_SECTION:waka-->
 
 ```txt
-sh      2 hrs 47 mins         ███████████████████████▒░   93.30 %
-SQL     8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Other   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+sh      2 hrs 59 mins         ███████████████████████▒░   93.73 %
+SQL     8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Other   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
