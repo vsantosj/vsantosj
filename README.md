@@ -19,7 +19,8 @@ Formada em **Análise e Desenvolvimento de sistemas** e atualmente curso **Ciên
 <!--START_SECTION:waka-->
 
 ```txt
-sh   0 secs                █████████████████████████   100.00 %
+HTML   5 mins                ████████████████░░░░░░░░░   64.51 %
+sh     3 mins                █████████░░░░░░░░░░░░░░░░   35.49 %
 ```
 
 <!--END_SECTION:waka-->
