@@ -19,10 +19,11 @@ Formada em **Análise e Desenvolvimento de sistemas** e atualmente curso **Ciên
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   29 mins               ████████████░░░░░░░░░░░░░   48.25 %
-HTML         16 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
-CSS          9 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-sh           5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+sh           1 hr 28 mins          ████████████▓░░░░░░░░░░░░   50.00 %
+PHP          31 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+JavaScript   30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+HTML         16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+CSS          9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
