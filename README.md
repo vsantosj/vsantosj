@@ -19,10 +19,7 @@ Formada em **Análise e Desenvolvimento de sistemas** na [UNINTER](https://www.u
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   33 mins               ██████████▓░░░░░░░░░░░░░░   42.99 %
-CSS          19 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
-HTML         15 mins               █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-PHP          8 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
