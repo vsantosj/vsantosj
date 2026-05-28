@@ -19,7 +19,8 @@ Formada em **Análise e Desenvolvimento de sistemas** na [UNINTER](https://www.u
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   2 mins                █████████████████████████   100.00 %
+C#       2 mins                ██████████████▒░░░░░░░░░░   57.92 %
+Binary   1 min                 ██████████▓░░░░░░░░░░░░░░   42.08 %
 ```
 
 <!--END_SECTION:waka-->
