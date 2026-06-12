@@ -19,9 +19,9 @@ Formada em **Análise e Desenvolvimento de sistemas** na [UNINTER](https://www.u
 <!--START_SECTION:waka-->
 
 ```txt
-C#       3 hrs 48 mins         █████████████████████░░░░   84.34 %
-Razor    39 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Binary   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+C#       9 hrs 23 mins         ███████████████████████▓░   95.21 %
+Razor    24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Binary   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
