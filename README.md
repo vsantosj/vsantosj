@@ -19,7 +19,7 @@ Formada em **Análise e Desenvolvimento de sistemas** na [UNINTER](https://www.u
 <!--START_SECTION:waka-->
 
 ```txt
-C#   9 hrs 21 mins         █████████████████████████   100.00 %
+C#   7 hrs 13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
