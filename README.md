@@ -1,6 +1,6 @@
 
 
-# Olá, Sou Viviane. <img src="./src/badge/retrocomputer0.1.gif" align="right" width="180" vspace="10">
+# Olá, Sou Vivi. <img src="./src/badge/retrocomputer0.1.gif" align="right" width="180" vspace="10">
 
 
 
