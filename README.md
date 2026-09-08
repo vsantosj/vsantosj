@@ -19,7 +19,10 @@ Formada em **Análise e Desenvolvimento de sistemas** na [UNINTER](https://www.u
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     2 hrs 10 mins         ██████████████▒░░░░░░░░░░   56.78 %
+Markdown   1 hr 36 mins          ██████████▓░░░░░░░░░░░░░░   42.13 %
+Text       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
