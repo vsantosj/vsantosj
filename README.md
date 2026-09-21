@@ -19,7 +19,8 @@ Formada em **Análise e Desenvolvimento de sistemas**.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   4 mins                █████████████▒░░░░░░░░░░░   52.93 %
+Bash       3 mins                ███████████▓░░░░░░░░░░░░░   47.07 %
 ```
 
 <!--END_SECTION:waka-->
