@@ -19,8 +19,8 @@ Formada em **Análise e Desenvolvimento de sistemas**.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     19 mins               ████████████▓░░░░░░░░░░░░   50.34 %
-Python   19 mins               ████████████▒░░░░░░░░░░░░   49.66 %
+Python   53 mins               █████████████████████░░░░   83.80 %
+HTML     10 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
 ```
 
 <!--END_SECTION:waka-->
