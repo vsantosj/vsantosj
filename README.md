@@ -19,11 +19,11 @@ Formada em **Análise e Desenvolvimento de sistemas**.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        35 mins               ██████████▓░░░░░░░░░░░░░░   42.22 %
-Python      27 mins               ████████▒░░░░░░░░░░░░░░░░   33.17 %
-Markdown    19 mins               ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-Bash        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Caddyfile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+YAML        39 mins               ████████▒░░░░░░░░░░░░░░░░   33.91 %
+Python      34 mins               ███████▓░░░░░░░░░░░░░░░░░   30.15 %
+Markdown    19 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Bash        17 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Caddyfile   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
