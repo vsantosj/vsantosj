@@ -13,7 +13,7 @@ jobs:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v1
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
