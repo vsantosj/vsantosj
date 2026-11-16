@@ -10,9 +10,10 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update README with WakaTime Stats
+    name: Update README with Wakapi Stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          API_BASE_URL: https://wakapi.dev/api
