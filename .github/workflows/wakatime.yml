@@ -16,4 +16,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          API_BASE_URL: https://wakapi.dev/api
+          API_BASE_URL: https://wakapi.dev/api/compat/wakatime
